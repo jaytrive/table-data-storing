@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    overflow-x: hidden;
+}
+.DB{
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    font-size: 20px;
+    margin-bottom: 10px;
+    width: 100%;
+}
+.btn{
+    margin:0px 20px;
+    margin-bottom: 10px;
+    padding: 3px 25px;
+    font-size: 12px;
+    background-color: black;
+    color: white;
+    
+}
+table{
+    margin-left: 20px;
+    width: 97%;
+    border-collapse: collapse;
+}
+th{
+    border: 1px solid black;
+    padding: 6px 10px;
+}
+td{
+    border: 1px solid black;
+    text-align: center;
+}
+input{
+    height: 35px;
+    text-align: center;
+    border: 0px
+}
+input:focus{
+    outline: none;
+}
+tbody tr td button{
+    background-color: black;
+    color: white;
+    padding: 1px 5px;
+}
